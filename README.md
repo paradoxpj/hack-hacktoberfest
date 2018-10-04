@@ -13,6 +13,7 @@ Thanks!
 - [qservando](https://github.com/qservando)
 - [MAGICCC](https://github.com/MAGICCC)
 - [lewiswatson55](https://github.com/lewiswatson55)
+- [iprateek06](https://github.com/iprateek06)
 - [FranRoneroMal](https://github.com/FranRomeroMal)
 - [TuhinKundu](https://github.com/TuhinKundu)
 - [zburchett](https://github.com/zburchett)
